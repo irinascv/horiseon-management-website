@@ -25,12 +25,12 @@ click [here.](add-horiseon-deployed-link)
 
 :sparkle: Navigate to **Horiseon** [website](add-horiseon-link)<br>
 
-![Horiseon](starter/assets/images/screenshot.png)
+![Horiseon](assets/images/screenshot.png)
 
 :sparkle: Right click <br>
 :sparkle: Select ***"Inspect"*** <br>
 
-![Inspecting_Horiseon](starter/assets/images/screenshot_1.png)
+![Inspecting_Horiseon](assets/images/screenshot_1.png)
 
 :sparkle: ...and explore semantic HTML and CSS properties that optimize this page for search engines.
 :sparkle: p.s. checkout navigation links and hidden footer!
