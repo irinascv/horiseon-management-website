@@ -1,5 +1,5 @@
 *
-/* Style set box */
+/* Style border box */
  {
     box-sizing: border-box;
     padding: 0;
@@ -8,7 +8,7 @@
 
 /* Style body tag */
 body {
-    background-color: #d9dcd6; /* sets background color */
+    background-color: #d9dcd6; 
 }
 
 /* Style all header and div classed header tags */
@@ -77,11 +77,12 @@ p {
     margin-left: 25px;
 }
 
-/* Style all main classed content tag */
+/* Style all main classed content tag; added margin-bottom to lift main content */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+    margin-bottom: 35px;
 }
 
 .search-engine-optimization {
@@ -204,8 +205,9 @@ footer {
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
+    display: none;
 }
-
+/* added display none to hide copyright as was pointed out that website should match with mockup screenshot */
 footer h2 {
     font-size: 20px;
 }
