@@ -8,7 +8,7 @@ To read more about
 
 ![Static Badge](https://img.shields.io/badge/horiseon-services-website?style=flat&labelColor=grey&color=blue)<br> 
 
-click [here.](add-horiseon-deployed-link)
+click [here.](https://irinascv.github.io/horiseon-management-website/)
 
 ## Installation
 
@@ -23,7 +23,7 @@ click [here.](add-horiseon-deployed-link)
 
 ## Usage
 
-:sparkle: Navigate to **Horiseon** [website](add-horiseon-link)<br>
+:sparkle: Navigate to **Horiseon** [website](https://irinascv.github.io/horiseon-management-website/)<br>
 
 ![Horiseon](assets/images/screenshot.png)
 
